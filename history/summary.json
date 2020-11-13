@@ -1,11 +1,11 @@
 [
   {
     "name": "Snap Wiki",
-    "url": "https://snapwiki.miraheze.orgo",
+    "url": "https://snapwiki.miraheze.org",
     "slug": "snap-wiki",
-    "status": "down",
-    "uptime": "99.92",
-    "time": 2783
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2579
   },
   {
     "name": "Site",
@@ -13,6 +13,6 @@
     "slug": "site",
     "status": "up",
     "uptime": "100.00",
-    "time": 55
+    "time": 70
   }
 ]

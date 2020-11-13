@@ -1,8 +1,6 @@
-# Change these first
-owner: snapwiki # Your GitHub username
-repo: SnapWikiUptime # Your Github repository name
+owner: snapwiki
+repo: SnapWikiUptime 
 
-# Add your sites here
 sites:
   - name: Snap Wiki
     url: https://snapwiki.miraheze.org
@@ -11,8 +9,6 @@ sites:
 
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /SnapWikiUptime
   logoUrl: https://snapwiki.github.io/assets/images/logo.png
   name: Snap! Wiki
@@ -29,6 +25,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 notifications:
   - type: discord
-
-# Upptime also supports notifications, assigning issues, and more
+  
+i18n:
+  allSystemsOperational: All systems are operational
 # See https://upptime.js.org/docs/configuration

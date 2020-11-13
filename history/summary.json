@@ -1,10 +1,10 @@
 [
   {
-    "name": "Google",
+    "name": "SnapWiki",
     "url": "https://snapwiki.miraheze.org",
-    "slug": "google",
+    "slug": "snap-wiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 2792
+    "time": 680
   }
 ]

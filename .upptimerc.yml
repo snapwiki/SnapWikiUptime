@@ -27,6 +27,8 @@ status-website:
       href: https://snapwiki.miraheze.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+notifications:
+  - type: discord
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

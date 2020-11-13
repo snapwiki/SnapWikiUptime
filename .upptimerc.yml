@@ -4,8 +4,10 @@ repo: SnapWikiUptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: SnapWiki
+  - name: Snap Wiki
     url: https://snapwiki.miraheze.org
+  - name: Site
+    url: https://snapwiki.github.io
 
 
 status-website:
@@ -18,9 +20,11 @@ status-website:
   introMessage: This is a realtime status page for the Snap! Wiki
   navbar:
     - title: Home
-      href: /
-    - title: Status
       href: /SnapWikiUptime
+    - title: Main Site
+      href: /
+    - title: Wiki
+      href: https://snapwiki.miraheze.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

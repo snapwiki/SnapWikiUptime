@@ -5,7 +5,7 @@ repo: SnapWikiUptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Snap Wiki
-    url: https://snapwiki.miraheze.orgo
+    url: https://snapwiki.miraheze.org
   - name: Site
     url: https://snapwiki.github.io
 

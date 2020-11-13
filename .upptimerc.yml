@@ -22,7 +22,7 @@ status-website:
     - title: Home
       href: /SnapWikiUptime
     - title: Main Site
-      href: /
+      href: https://snapwiki.github.io
     - title: Wiki
       href: https://snapwiki.miraheze.org
     - title: GitHub

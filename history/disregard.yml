@@ -1,7 +1,7 @@
-- url: https://test.test
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-14T19:36:45.727Z
+- url: https://google.com
+- status: up
+- code: 200
+- responseTime: 96
+- lastUpdated: 2020-11-14T19:38:16.028Z
 - startTime: 2020-11-14T19:36:45.627Z
 - generator: Upptime <https://github.com/upptime/upptime>

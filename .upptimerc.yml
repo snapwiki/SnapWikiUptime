@@ -6,6 +6,8 @@ sites:
     url: https://snapwiki.miraheze.org
   - name: Site
     url: https://snapwiki.github.io
+  - name: Disregard
+    url: https://test.test
 
 
 status-website:

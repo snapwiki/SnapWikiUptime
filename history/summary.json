@@ -5,7 +5,7 @@
     "slug": "snap-wiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 2291
+    "time": 2156
   },
   {
     "name": "Site",
@@ -13,14 +13,6 @@
     "slug": "site",
     "status": "up",
     "uptime": "100.00",
-    "time": 57
-  },
-  {
-    "name": "Test site",
-    "url": "https://dis.regard",
-    "slug": "test-site",
-    "status": "down",
-    "uptime": "4.39",
-    "time": 0
+    "time": 64
   }
 ]

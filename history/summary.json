@@ -5,7 +5,7 @@
     "slug": "snap-wiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 1854
+    "time": 1781
   },
   {
     "name": "Site",
@@ -13,14 +13,6 @@
     "slug": "site",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
-  },
-  {
-    "name": "Disregard",
-    "url": "https://google.com",
-    "slug": "disregard",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 48
+    "time": 87
   }
 ]

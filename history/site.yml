@@ -1,7 +1,7 @@
 - url: https://snapwiki.github.io
-- status: up
+- status: down
 - code: 200
-- responseTime: 59
-- lastUpdated: 2020-11-18T23:18:39.797Z
+- responseTime: 81
+- lastUpdated: 2020-11-19T06:49:50.621Z
 - startTime: 2020-11-13T18:21:10.454Z
 - generator: Upptime <https://github.com/upptime/upptime>

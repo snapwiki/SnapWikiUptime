@@ -1,4 +1,4 @@
-# [📈 Live Status](https://snapwiki.github.io/SnapWikiUptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://snapwiki.github.io/SnapWikiUptime): <!--live status--> **All systems are operational**
 
 This repository contains the open-source uptime monitor and status page for the [Snap! Wiki](https://snapwiki.miraheze.org), powered by [Upptime](https://github.com/SnapWikiUptime/SnapWikiUptime).
 
@@ -16,8 +16,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL                                         | Status | History                                                                                          | Response Time                                                                   | Uptime                                                                                                                                                                                                                             |
 | ------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Snap! Wiki](https://snapwiki.miraheze.org) | 🟩 Up  | [snap-wiki.yml](https://github.com/snapwiki/SnapWikiUptime/commits/master/history/snap-wiki.yml) | <img alt="Response time graph" src="./graphs/snap-wiki.png" height="20"> 1613ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsnapwiki%2FSnapWikiUptime%2Fmaster%2Fapi%2Fsnap-wiki%2Fuptime.json)](https://snapwiki.github.io/SnapWikiUptime/history/snap-wiki) |
-| [Site](https://snapwiki.github.io)          | 🟩 Up  | [site.yml](https://github.com/snapwiki/SnapWikiUptime/commits/master/history/site.yml)           | <img alt="Response time graph" src="./graphs/site.png" height="20"> 83ms        | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsnapwiki%2FSnapWikiUptime%2Fmaster%2Fapi%2Fsite%2Fuptime.json)](https://snapwiki.github.io/SnapWikiUptime/history/site)           |
+| [Snap! Wiki](https://snapwiki.miraheze.org) | 🟩 Up  | [snap-wiki.yml](https://github.com/snapwiki/SnapWikiUptime/commits/master/history/snap-wiki.yml) | <img alt="Response time graph" src="./graphs/snap-wiki.png" height="20"> 1578ms | [![Uptime 99.90%%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsnapwiki%2FSnapWikiUptime%2Fmaster%2Fapi%2Fsnap-wiki%2Fuptime.json)](https://snapwiki.github.io/SnapWikiUptime/history/snap-wiki) |
+| [Site](https://snapwiki.github.io)          | 🟩 Up  | [site.yml](https://github.com/snapwiki/SnapWikiUptime/commits/master/history/site.yml)           | <img alt="Response time graph" src="./graphs/site.png" height="20"> 84ms        | [![Uptime 99.96%%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsnapwiki%2FSnapWikiUptime%2Fmaster%2Fapi%2Fsite%2Fuptime.json)](https://snapwiki.github.io/SnapWikiUptime/history/site)           |
 
 <!--end: status pages-->
 

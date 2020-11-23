@@ -4,15 +4,15 @@
     "url": "https://snapwiki.miraheze.org",
     "slug": "snap-wiki",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1613
+    "uptime": "99.90%",
+    "time": 1578
   },
   {
     "name": "Site",
     "url": "https://snapwiki.github.io",
     "slug": "site",
     "status": "up",
-    "uptime": "100.00",
-    "time": 83
+    "uptime": "99.96%",
+    "time": 84
   }
 ]

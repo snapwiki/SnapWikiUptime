@@ -5,7 +5,7 @@
     "slug": "snap-wiki",
     "status": "up",
     "uptime": "99.95%",
-    "time": 1359
+    "time": 1344
   },
   {
     "name": "Site",
@@ -13,6 +13,6 @@
     "slug": "site",
     "status": "up",
     "uptime": "99.98%",
-    "time": 89
+    "time": 92
   }
 ]

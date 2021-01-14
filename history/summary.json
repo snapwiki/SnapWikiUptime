@@ -5,20 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/snapwiki.miraheze.org",
     "slug": "snap-wiki",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
-    "time": 1302,
-    "timeDay": 690,
-    "timeWeek": 2209,
-    "timeMonth": 1247,
-    "timeYear": 1302,
+    "uptimeYear": "99.96%",
+    "time": 1294,
+    "timeDay": 586,
+    "timeWeek": 2200,
+    "timeMonth": 1212,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2020-12-23": 33,
-      "2020-11-20": 6,
-      "2020-11-19": 5,
       "2020-11-13": 3
     }
   },
@@ -28,18 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/snapwiki.github.io",
     "slug": "site",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 34,
-    "timeWeek": 89,
-    "timeMonth": 94,
+    "timeDay": 91,
+    "timeWeek": 85,
+    "timeMonth": 95,
     "timeYear": 92,
-    "dailyMinutesDown": {
-      "2020-11-19": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://snapwiki.miraheze.org",
     "icon": "https://favicons.githubusercontent.com/snapwiki.miraheze.org",
     "slug": "snap-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 717,
     "timeYear": 1161,
     "dailyMinutesDown": {
+      "2021-03-06": 0,
       "2020-12-23": 33,
       "2020-11-13": 3
     }

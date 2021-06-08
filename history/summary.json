@@ -27,17 +27,19 @@
     "url": "https://snapwiki.github.io",
     "icon": "https://favicons.githubusercontent.com/snapwiki.github.io",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
     "timeDay": 48,
-    "timeWeek": 90,
-    "timeMonth": 91,
+    "timeWeek": 85,
+    "timeMonth": 90,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]

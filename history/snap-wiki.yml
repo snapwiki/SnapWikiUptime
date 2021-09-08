@@ -1,7 +1,7 @@
 url: https://snapwiki.miraheze.org
-status: up
-code: 200
-responseTime: 221
-lastUpdated: 2021-09-07T23:21:07.441Z
+status: down
+code: 500
+responseTime: 1195
+lastUpdated: 2021-09-08T19:24:48.890Z
 startTime: Fri Nov 13 2020 15:23:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

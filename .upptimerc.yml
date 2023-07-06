@@ -21,8 +21,6 @@ status-website:
       href: https://snapwiki.miraheze.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-notifications:
-  - type: discord
   
 i18n:
   allSystemsOperational: All systems are operational

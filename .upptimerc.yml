@@ -26,4 +26,4 @@ i18n:
   allSystemsOperational: All systems are operational
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
-  uptime: "*/9 * * * *"
+  uptime: "*/13 * * * *"

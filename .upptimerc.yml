@@ -4,9 +4,6 @@ repo: SnapWikiUptime
 sites:
   - name: Snap! Wiki
     url: https://snapwiki.miraheze.org
-  - name: Site
-    url: https://snapwiki.github.io
-
 
 
 status-website:
